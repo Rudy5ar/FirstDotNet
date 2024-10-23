@@ -1,5 +1,4 @@
 ﻿using FirstDotNet.Services;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FirstDotNet.Controllers

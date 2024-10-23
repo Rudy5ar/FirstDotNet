@@ -36,6 +36,12 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
+    },
+    "FirstDotNet": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "JWT_SECRET_KEY": "ThisIsMySecretKeyForThis"
+      }
     }
   }
 }
